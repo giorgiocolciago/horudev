@@ -1,7 +1,7 @@
 <h2>Horudev</h2>
-<h4>AnonSain7</h4>
+<h4>Giorgio Colciago</h4>
 
-Hi, I'm Sain7.
+Hi, I'm Giorgio.
 I created Horudev in 2019 as a trademark of my softwares and my works.
 
 Over time, I felt the need to expand this project.
