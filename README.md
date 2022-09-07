@@ -10,6 +10,3 @@ I felt the need to create a community of artists, developers and content creator
 Whether you are a PRO or a Newbie you will always be welcome.
 
 I am currently working on the community web platform, in the meantime you can join the community on Discord by following this invitation link: https://discord./4YzM5bsEe9
-
-
-We are Legion, Expect Us.
